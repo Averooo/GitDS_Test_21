@@ -1,0 +1,9 @@
+1. https://www.petanikode.com/git-install/
+2. https://www.petanikode.com/git-init/
+3. https://www.petanikode.com/git-commit/
+4. https://www.petanikode.com/git-log/
+5. https://www.petanikode.com/git-diff/
+6. https://www.petanikode.com/git-membatalkan-revisi/
+7. https://www.petanikode.com/git-branch/
+8. https://www.petanikode.com/git-checkout-reset-revert/
+9. https://www.petanikode.com/git-remote
